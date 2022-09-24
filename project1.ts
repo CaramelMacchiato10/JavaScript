@@ -1,4 +1,4 @@
-let age = 17
+let age: number = 17
 let color = "black"
 let vaccine = true
 
